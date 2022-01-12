@@ -1,2 +1,4 @@
 # todo
-TODO list
+
+[ ] Compléter mes CV
+[ ] Voir exemple de stockage d'image dans ReadMe.md (/assets ?)
